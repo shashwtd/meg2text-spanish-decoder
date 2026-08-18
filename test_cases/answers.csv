@@ -1,0 +1,10 @@
+file,sentence_uid,subject,target_text,intended_text
+example_01.npz,50.0_S4_1_block1,3,las estratyefias diferencias los pensamiemntos ,las estrategias diferencian los pensamientos
+example_02.npz,6.0_S6_1_block2,5,los paneles contienen la opcion larga,los paneles contienen la opcion larga
+example_03.npz,19.0_S7_2_block2,6,las proposiciones tienen el tema,las proposiciones tienen el tema
+example_04.npz,20.0_S7_2_block2,6,la ciencia rompe la vision,la ciencia rompe la vision
+example_05.npz,9.0_S12_1_block1,10,el infividuo adapta losrgasgos,el individuo adapta los rasgos
+example_06.npz,24.0_S15_2_block1,11,l pregrama del reasentamient pide lospermisos,el programa del reasentamiento pide los permisos
+example_07.npz,50.0_S17_1_block2,13,los elementos apropiados manifiestan los daos,los elementos apropiados manifiestan los danos
+example_08.npz,53.0_S21_2_block1,4,los motores rapidos consumen las energias,los motores rapidos consumen las energias
+example_09.npz,59.0_S21_2_block1,4,los individuos adaptan el rasgo genetico,los individuos adaptan el rasgo genetico

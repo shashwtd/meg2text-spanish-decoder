@@ -1,0 +1,11 @@
+{
+  "paper_macro_subject_cer": 0.6031073080077999,
+  "paper_macro_subject_sem": 0.013752352778334198,
+  "global_micro_cer": 0.6107457280158997,
+  "subjects": 19,
+  "test_sentences": 440,
+  "best_validation_cer": 0.574,
+  "best_epoch": 96,
+  "paper_spanish_cer": 0.59,
+  "paper_spanish_error": 0.02
+}

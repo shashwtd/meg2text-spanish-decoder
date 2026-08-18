@@ -1,0 +1,4 @@
+numpy==2.2.6
+neuraltrain==0.2.2
+exca==0.5.22
+tqdm==4.67.1

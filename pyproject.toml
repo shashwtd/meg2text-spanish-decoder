@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spanish-meg-decoder"
+version = "1.0.0"
+description = "Local Spanish MEG-to-text CTC decoder"
+requires-python = ">=3.12"
+dependencies = [
+  "numpy==2.2.6",
+  "torch==2.6.0",
+  "torchaudio==2.6.0",
+  "torchvision==0.21.0",
+  "neuraltrain==0.2.2",
+  "exca==0.5.22",
+  "tqdm==4.67.1",
+]
+
+[project.scripts]
+spanish-meg-predict = "spanish_meg_decoder.predict:main"
+spanish-meg-web = "spanish_meg_decoder.web:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

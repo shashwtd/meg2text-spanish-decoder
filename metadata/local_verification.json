@@ -1,0 +1,13 @@
+{
+  "python": "3.12.6",
+  "torch": "2.6.0+cu124",
+  "torchaudio": "2.6.0+cu124",
+  "cuda_runtime": "12.4",
+  "device": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "examples": 9,
+  "mean_example_cer": 0.6154000121533854,
+  "mean_warm_inference_seconds": 0.08755628888886552,
+  "web_health_check": "passed",
+  "web_cuda_prediction_check": "passed"
+}
+

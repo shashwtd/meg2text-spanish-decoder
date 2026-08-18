@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "checkpoint": "best-ctc-096.ckpt",
+  "model_file": "spanish_meg_ctc_v2.pt",
+  "model_bytes": 1409888720,
+  "examples": 9,
+  "channels": 306,
+  "sample_rate_hz": 100,
+  "classes": 29,
+  "blank_class": 0,
+  "space_class": 27,
+  "variable_length_input": true,
+  "export_reload_max_abs_difference": 0.0,
+  "exported_at": "2026-08-18T01:56:50.686234+00:00"
+}

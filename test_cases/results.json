@@ -1,0 +1,101 @@
+[
+  {
+    "prediction": "las treetaon oaa dietoelo ls egot ",
+    "duration_seconds": 9.2,
+    "subject": "3",
+    "sentence_uid": "50.0_S4_1_block1",
+    "inference_seconds": 0.5552719999977853,
+    "device": "cuda",
+    "target_text": "las estratyefias diferencias los pensamiemntos ",
+    "cer": 0.6382978723404256,
+    "intended_text": "las estrategias diferencian los pensamientos"
+  },
+  {
+    "prediction": "las pnen cintirn la pcion a",
+    "duration_seconds": 5.91,
+    "subject": "5",
+    "sentence_uid": "6.0_S6_1_block2",
+    "inference_seconds": 0.028134500003943685,
+    "device": "cuda",
+    "target_text": "los paneles contienen la opcion larga",
+    "cer": 0.3783783783783784,
+    "intended_text": "los paneles contienen la opcion larga"
+  },
+  {
+    "prediction": "las apoosiciones rsan l cea",
+    "duration_seconds": 3.84,
+    "subject": "6",
+    "sentence_uid": "19.0_S7_2_block2",
+    "inference_seconds": 0.024908800005505327,
+    "device": "cuda",
+    "target_text": "las proposiciones tienen el tema",
+    "cer": 0.34375,
+    "intended_text": "las proposiciones tienen el tema"
+  },
+  {
+    "prediction": "la ciencia epoola gison",
+    "duration_seconds": 2.91,
+    "subject": "6",
+    "sentence_uid": "20.0_S7_2_block2",
+    "inference_seconds": 0.05731099999684375,
+    "device": "cuda",
+    "target_text": "la ciencia rompe la vision",
+    "cer": 0.2692307692307692,
+    "intended_text": "la ciencia rompe la vision"
+  },
+  {
+    "prediction": "la oie lls ecuaotas reaa",
+    "duration_seconds": 5.91,
+    "subject": "10",
+    "sentence_uid": "9.0_S12_1_block1",
+    "inference_seconds": 0.019979799995780922,
+    "device": "cuda",
+    "target_text": "el infividuo adapta losrgasgos",
+    "cer": 0.7666666666666667,
+    "intended_text": "el individuo adapta los rasgos"
+  },
+  {
+    "prediction": "elos operosga onandente ad tallenfo smpiden los permios",
+    "duration_seconds": 6.98,
+    "subject": "11",
+    "sentence_uid": "24.0_S15_2_block1",
+    "inference_seconds": 0.02414359999966109,
+    "device": "cuda",
+    "target_text": "l pregrama del reasentamient pide lospermisos",
+    "cer": 0.6222222222222222,
+    "intended_text": "el programa del reasentamiento pide los permisos"
+  },
+  {
+    "prediction": "el ajeantoceplta een  loastallo os",
+    "duration_seconds": 11.89,
+    "subject": "13",
+    "sentence_uid": "50.0_S17_1_block2",
+    "inference_seconds": 0.0272121000016341,
+    "device": "cuda",
+    "target_text": "los elementos apropiados manifiestan los daos",
+    "cer": 0.6444444444444445,
+    "intended_text": "los elementos apropiados manifiestan los danos"
+  },
+  {
+    "prediction": "laesd s ouma la on polaaaoe loseesedeafitas ees oaaeeopa",
+    "duration_seconds": 16.0,
+    "subject": "4",
+    "sentence_uid": "53.0_S21_2_block1",
+    "inference_seconds": 0.027459799995995127,
+    "device": "cuda",
+    "target_text": "los motores rapidos consumen las energias",
+    "cer": 0.975609756097561,
+    "intended_text": "los motores rapidos consumen las energias"
+  },
+  {
+    "prediction": "las ionocines ratoes dieilsa veseenas epelanos n cr",
+    "duration_seconds": 11.29,
+    "subject": "4",
+    "sentence_uid": "59.0_S21_2_block1",
+    "inference_seconds": 0.0235850000026403,
+    "device": "cuda",
+    "target_text": "los individuos adaptan el rasgo genetico",
+    "cer": 0.9,
+    "intended_text": "los individuos adaptan el rasgo genetico"
+  }
+]
